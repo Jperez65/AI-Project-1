@@ -18,6 +18,7 @@ to your console terminal
 Before running the program you must have a text file with the name "sample.txt"in the same directory before running it. The text file content must follow the format of three number seperated by a single space. Example:
 
 > 2 3 0
+> 
 > 3 4 2
 
 After you run it the program will output:
