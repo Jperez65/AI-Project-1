@@ -34,9 +34,13 @@ Again you will input the ending vertex node where the uniform-cost search will e
 After both vertex has been enter it will output the list of vertex it will be traveling from and arriving to with it cost output it on the way. After the loop it will finally output the total cost of the search found and then terminates the program. Example:
 
 >vertex 2 to vertex 13, cost 3
+>
 >vertex 13 to vertex 5, cost 4
+>
 >vertex 5 to vertex 3, cost 6
+>
 >Total cost: 13
+>
 >Ending of program
 
 #### Condition- scenario
@@ -44,25 +48,35 @@ After both vertex has been enter it will output the list of vertex it will be tr
 ###### If one of the input does not exist in the text file
 
 >Starting vertex: 2
+>
 >Ending vertex: 30
+>
 >Graph does not have one of the vertex you inputed
+>
 >Ending of program
 '''
 ###### if the starting vertex has no edges
 
 
 >Starting vertex: 2
+>
 >Ending vertex: 15
+>
 >Initial vertex has no outgoing edge
+>
 >Total cost: 0
+>
 >Ending of program
 
 ###### if the ending vertex has no edges going to it
 
 
 >Starting vertex: 2
+>
 >Ending vertex: 15
+>
 >Goal vertex does not have an in going edges
+>
 >Ending of program
 
 
