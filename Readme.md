@@ -1,6 +1,6 @@
 # Assingment 1: Problem 3
 
-On the assingment 1 problem #3 it requested to write a programing file that would 
+On the assingment 1 problem #3 it requested to write a programing file that function as a dijktra algorithm 
 
 ## Compile and Run
 
