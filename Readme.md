@@ -7,9 +7,9 @@ On the assingment 1 problem #3 it requested to write a programing file that woul
 To compile file you must have python 3.8.5 ver installed in your system environment or use any other IDE programs. 
 After that you must go to the directory where the program is located and write 
 
-'''bash 
-python Project.py
-'''
+
+> python Project.py
+
 
 to your console terminal
 
